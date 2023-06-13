@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html dir="ltr">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- #BeginEditable "doctitle" -->
+<title>Banner Here</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+</style>
+</head>
+
+<body style="font-family: Arial, Helvetica, sans-serif; margin-right: auto; margin-left: auto; width: 850px;">
+<p class="auto-style1">
+
+<img alt="MobileWorldStation Banner" height="125" src="file://G-DATA-2012/G_Students/22107073/Website/images/banner.jpg" width="850"></p><p style="text-align: right">
+<a href="apple.htm">Home</a> :
+<a href="file://G-DATA-2012/G_Students/22107073/Website/apple.htm">Apple</a> : 
+<a href="samsung.htm">Samsung</a> :
+<a href="payasyougo.htm">PayAsYouGo</a> : 
+<a href="carriers.htm">Carriers</a> :
+<a href="accessories.htm">Accessories</a> :
+<a href="aboutus.htm">About Us</a> :
+<a href="contact.htm">Contact Us</a></p>
+
+<!-- #BeginEditable "body" -->
+
+<p style="height: 24px; text-align: center; width: 402px">Content Here</p> 
+
+<!-- #EndEditable -->
+
+<!-- #BeginEditable "body" -->
+
+<p style="height: 53px; text-align: center; width: 849px">Footer</p>
+
+<!-- #EndEditable -->
+
+
+</body>
+</html>
